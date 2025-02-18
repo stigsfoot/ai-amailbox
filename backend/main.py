@@ -3,16 +3,12 @@ from fetch_emails import fetch_usps_email
 from process_images import extract_text_from_image
 from classify_mail import categorize_mail
 from pathlib import Path
-import wandb
 from typing import Dict, Any
 import logging
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-# Initialize WandB
-wandb.init(project="mail_ai", entity="noble-ackerson")
 
 app = FastAPI()
 

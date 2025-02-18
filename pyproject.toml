@@ -1,0 +1,13 @@
+[project]
+name = "letterlens"
+version = "0.1.0"
+dependencies = [
+    "litellm",
+    "smolagents",
+    "fastapi",
+    "python-dotenv"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

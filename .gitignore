@@ -1,9 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
 backend/__pycache__/
 backend/*.pyc
 backend/*.pyo
 backend/*.pyd
 backend/*.pyw
 backend/venv/
+backend/.venv/
+.venv/
 
+# Environment variables
+.env
 
-
+# Windows / Mac OS metadata
+Thumbs.db
+.DS_Store
