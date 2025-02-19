@@ -5,7 +5,10 @@ dependencies = [
     "litellm",
     "smolagents",
     "fastapi",
-    "python-dotenv"
+    "python-dotenv",
+    "google-api-python-client",
+    "google-auth-oauthlib", 
+    "uvicorn"
 ]
 
 [build-system]
