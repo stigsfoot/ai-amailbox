@@ -1,0 +1,32 @@
+{
+    "backend\\mail_images\\sample_mail_1.jpg": {
+        "classification": "Error",
+        "confidence": 0.0,
+        "reasoning": "Unable to classify mail"
+    },
+    "backend\\mail_images\\sample_mail_2.jpg": {
+        "classification": "Error",
+        "confidence": 0.0,
+        "reasoning": "Unable to classify mail"
+    },
+    "backend\\mail_images\\sample_mail_3.jpg": {
+        "classification": "Error",
+        "confidence": 0.0,
+        "reasoning": "Unable to classify mail"
+    },
+    "backend\\mail_images\\sample_mail_4.jpg": {
+        "classification": "Error",
+        "confidence": 0.0,
+        "reasoning": "Unable to classify mail"
+    },
+    "backend\\mail_images\\sample_mail_5.jpg": {
+        "classification": "Error",
+        "confidence": 0.0,
+        "reasoning": "Unable to classify mail"
+    },
+    "backend\\mail_images\\sample_mail_6.jpg": {
+        "classification": "Error",
+        "confidence": 0.0,
+        "reasoning": "Unable to classify mail"
+    }
+}
