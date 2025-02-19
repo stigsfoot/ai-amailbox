@@ -10,6 +10,9 @@ backend/*.pyw
 backend/venv/
 backend/.venv/
 .venv/
+backend/token.json
+backend/credentials.json
+
 
 # Environment variables
 .env
